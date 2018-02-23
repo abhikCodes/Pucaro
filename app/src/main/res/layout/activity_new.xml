@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abhik.ssoapplication.NewActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="JASPAL
+DADRI (BHIWANI)
+Party:IND
+S/o|D/o|W/o: Ranbir Singh
+Age: 38
+Address: R/o Ward No. 3, Ghikare Road, Teh. Dadri
+Name Enrolled as Voter in: 56 Dadri (Haryana) constituency , at Serial no 1020 in Part no 127
+Email:
+Contact Number: 9467822100"
+        android:textSize="20sp"/>
+
+</LinearLayout>

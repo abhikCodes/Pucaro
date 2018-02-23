@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732476652837",
+    "firebase_url": "https://ssoapplication-d1de1.firebaseio.com",
+    "project_id": "ssoapplication-d1de1",
+    "storage_bucket": "ssoapplication-d1de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732476652837:android:dd3398f0164d6703",
+        "android_client_info": {
+          "package_name": "com.example.abhik.ssoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732476652837-gbmburaktd426gg6ul2iv8kq4v9q41g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhik.ssoapplication",
+            "certificate_hash": "6ba65b4949b0ddf1694773a87f4b89223d65b586"
+          }
+        },
+        {
+          "client_id": "732476652837-e5md4u8vsk9q6t4f29a2ogjl2n9h7mhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8jKKXrwgeBhhlLvmwZ-9rW9yCahmdXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732476652837-e5md4u8vsk9q6t4f29a2ogjl2n9h7mhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
