@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abhik.ssoapplication.All_tax"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Welcome text"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginTop="20sp"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rvTaxList"
+            android:layout_marginTop="20dp">
+        </android.support.v7.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fabSize="mini"
+        android:id="@+id/fab"
+        android:layout_gravity="end|bottom"
+        app:srcCompat="@android:drawable/ic_menu_compass"
+        android:layout_marginBottom="10sp"
+        android:layout_marginRight="10sp"/>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/abhik/.android/build-cache/568c046e277ffcb023cbdb83bc59e957d4d2ea49/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/abhik/.android/build-cache/5418f447699f8149e5e2262c7bcfe0f32a39cf1e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/abhik/.android/build-cache/568c046e277ffcb023cbdb83bc59e957d4d2ea49/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/abhik/.android/build-cache/5418f447699f8149e5e2262c7bcfe0f32a39cf1e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/abhik/.android/build-cache/5418f447699f8149e5e2262c7bcfe0f32a39cf1e/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/abhik/.android/build-cache/568c046e277ffcb023cbdb83bc59e957d4d2ea49/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/abhik/.android/build-cache/568c046e277ffcb023cbdb83bc59e957d4d2ea49/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/abhik/AndroidStudioProjects/SsoApplication/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/abhik/.android/build-cache/5418f447699f8149e5e2262c7bcfe0f32a39cf1e/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]
